@@ -5,6 +5,8 @@
   <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=u-ktdi&theme=vue-dark&layout=compact" />
 </div>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=u-ktdi&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/mo-ri-regen/github-readme-stats)
+
 
 <!--
 **u-ktdi/u-ktdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
